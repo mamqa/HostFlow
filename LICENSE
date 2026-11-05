@@ -1,8 +1,46 @@
-Copyright (c) 2026 Meråker 365 AS
+ostFlow PMS - Evaluation License
 
-All rights reserved.
+Copyright (c) 2026 Meråker 365 AS. All rights reserved.
 
-This software is proprietary and confidential.
-Unauthorized copying, distribution, or use is strictly prohibited.
-Use only for testing. Not in production enviroments. 
-All changes must be shared on github.
+GRANT OF LICENSE
+
+Meråker 365 AS ("Licensor") grants you a limited, non-exclusive, 
+non-transferable license to download and use the HostFlow PMS 
+software ("Software") solely for evaluation and testing purposes.
+
+PERMITTED USE
+
+You may:
+- Download and install the Software
+- Use the Software in a non-production test environment
+- Evaluate the Software's features and functionality
+
+RESTRICTIONS
+
+You may NOT:
+- Use the Software in a production environment
+- Use the Software for commercial purposes
+- Distribute, sublicense, or sell the Software
+- Modify, reverse engineer, or create derivative works
+- Remove or alter any proprietary notices
+
+PRODUCTION USE
+
+For production use, a separate commercial license is required.
+Contact Meråker 365 AS at post@meraker365.no for licensing options.
+
+TERMINATION
+
+This license terminates automatically if you violate any terms.
+Upon termination, you must destroy all copies of the Software.
+
+DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM USE
+OF THE SOFTWARE.
+
+CONTACT
+
+Meråker 365 AS
+Email: post@meraker365.no
